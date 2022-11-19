@@ -1,4 +1,3 @@
-#
 
 
  <head>
@@ -18,7 +17,6 @@
          <article>
      <hr />
 
-     <h1>freeCodeCamp</h1>  
      <p>This repository has all the projects i'm making in my freeCodeCamp course.</p>
 
      <ul>
