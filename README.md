@@ -1,4 +1,3 @@
-#freeCodeCamp
 * [1CatPhotoApp](1CatPhotoApp/index.html)
 * [2CafeMenu](2CafeMenu/index.html)
 * [3ColoredMarkers](3ColoredMarkers/index.html)
