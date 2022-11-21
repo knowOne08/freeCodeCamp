@@ -1,49 +1,21 @@
+# freeCodeCamp
 
+## Projects
 
- <head>
+- > Survey Form<br>https://knowone08.github.io/freeCodingCamp/4SurveyForm/index.html
+- > Tribute Page<br>https://knowone08.github.io/freeCodingCamp/9TributePage/index.html
+- > DocumentationPage<br>https://knowone08.github.io/freeCodingCamp/13DocumentationPage/index.html
+  > <br>
+  > <br>
 
+## Practice Projects
 
-     <style>
-         html{
-             font-family: sans-serif;
-         }
-     </style>
- </head>
-
- <body>
-
-
-     <main>
-         <article>
-     <hr />
-
-     <p>This repository has all the projects i'm making in my freeCodeCamp course.</p>
-
-     <ul>
-         <li>  <a href="1CatPhotoApp/index.html">1CatPhotoApp</a>
-         </li>
-         <li>  <a href="2CafeMenu/index.html">2CafeMenu</a>
-         </li>
-         <li>  <a href="3ColoredMarkers/index.html">3ColoredMarkers</a>
-         </li>
-         <li>  <a href="4SurveyForm/index.html">4SurveyForm</a>
-         </li>
-         <li>  <a href="5Rothko'sPainting/index.html">5Rothko'sPainting</a>
-         </li>
-         <li>  <a href="6FlexBox/index.html">6FlexBox</a>
-         </li> 
-         <li>  <a href="7NutritionalLabel/index.html">7NutritionalLabel</a>
-         </li> 
-         <li>  <a href="8Quiz/index.html">8Quiz</a>
-         </li> 
-         <li>  <a href="9TributePage/index.html">9TributePage</a>
-         </li> 
-         <li>  <a href="10BalanceSheet/index.html">10BalanceSheet</a>
-         </li> 
-         <li>  <a href="12piano/index.html">12piano</a>
-         </li> 
-
-     </ul>
-     </article>
-  </main>
-
+- > Cat Photo App<br>https://knowone08.github.io/freeCodingCamp/1CatPhotoApp/index.html
+- > Cafe Menu<br>https://knowone08.github.io/freeCodingCamp/2CafeMenu/index.html
+- > Coloured Markers<br>https://knowone08.github.io/freeCodingCamp/3ColoredMarkers/index.html
+- > Rothok's Painting Using CSS<br>https://knowone08.github.io/freeCodingCamp/5Rothko'sPainting/index.html
+- > CSS flexbox<br>https://knowone08.github.io/freeCodingCamp/6FlexBox/index.html
+- > Nutritional Label<br>https://knowone08.github.io/freeCodingCamp/7NutritionalLabel/index.html
+- > Quiz site<br>https://knowone08.github.io/freeCodingCamp/8Quiz/index.html
+- > Balance Sheet<br>https://knowone08.github.io/freeCodingCamp/10BalanceSheet/index.html
+- > Picasso Painting<br>https://knowone08.github.io/freeCodingCamp/12piano/index.html
