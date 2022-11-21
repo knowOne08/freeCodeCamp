@@ -1,16 +1,21 @@
+# freeCodeCamp
 
+## Projects
 
-* [PrjoectLinks](https://knowone08.github.io/freeCodingCamp/)
+- > Survey Form<br>https://knowone08.github.io/freeCodingCamp/4SurveyForm/index.html
+- > Tribute Page<br>https://knowone08.github.io/freeCodingCamp/9TributePage/index.html
+- > DocumentationPage<br>https://knowone08.github.io/freeCodingCamp/13DocumentationPage/index.html
+  > <br>
+  > <br>
 
-* [1CatPhotoApp](1CatPhotoApp/index.html)
-* [2CafeMenu](2CafeMenu/index.html)
-* [3ColoredMarkers](3ColoredMarkers/index.html)
-* [4SurveyForm](4SurveyForm/index.html)
-* [5Rothko'sPainting](5Rothko'sPainting/index.html)
-* [6FlexBox](6FlexBox/index.html)
-* [7NutritionalLabel](7NutritionalLabel/index.html)
-* [8Quiz](8Quiz/index.html)
-* [9TributePage](9TributePage/index.html)
-* [10BalanceSheet](10BalanceSheet/index.html)
-* [12piano](12piano/index.html)
-* [13DocumentationPage](13DocumentationPage/index.html)
+## Practice Projects
+
+- > Cat Photo App<br>https://knowone08.github.io/freeCodingCamp/1CatPhotoApp/index.html
+- > Cafe Menu<br>https://knowone08.github.io/freeCodingCamp/2CafeMenu/index.html
+- > Coloured Markers<br>https://knowone08.github.io/freeCodingCamp/3ColoredMarkers/index.html
+- > Rothok's Painting Using CSS<br>https://knowone08.github.io/freeCodingCamp/5Rothko'sPainting/index.html
+- > CSS flexbox<br>https://knowone08.github.io/freeCodingCamp/6FlexBox/index.html
+- > Nutritional Label<br>https://knowone08.github.io/freeCodingCamp/7NutritionalLabel/index.html
+- > Quiz site<br>https://knowone08.github.io/freeCodingCamp/8Quiz/index.html
+- > Balance Sheet<br>https://knowone08.github.io/freeCodingCamp/10BalanceSheet/index.html
+- > Picasso Painting<br>https://knowone08.github.io/freeCodingCamp/12piano/index.html
