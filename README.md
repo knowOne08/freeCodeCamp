@@ -6,7 +6,6 @@
 - > Tribute Page<br>https://knowone08.github.io/freeCodingCamp/9TributePage/index.html
 - > DocumentationPage<br>https://knowone08.github.io/freeCodingCamp/13DocumentationPage/index.html
   > <br>
-  > <br>
 
 ## Practice Projects
 
@@ -19,3 +18,4 @@
 - > Quiz site<br>https://knowone08.github.io/freeCodingCamp/8Quiz/index.html
 - > Balance Sheet<br>https://knowone08.github.io/freeCodingCamp/10BalanceSheet/index.html
 - > Picasso Painting<br>https://knowone08.github.io/freeCodingCamp/12piano/index.html
+- > City Skyline<br>https://knowone08.github.io/freeCodingCamp/14CitySkyline/index.html
