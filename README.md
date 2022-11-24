@@ -5,6 +5,8 @@
 - > Survey Form<br>https://knowone08.github.io/freeCodingCamp/4SurveyForm/index.html
 - > Tribute Page<br>https://knowone08.github.io/freeCodingCamp/9TributePage/index.html
 - > DocumentationPage<br>https://knowone08.github.io/freeCodingCamp/13DocumentationPage/index.html
+- > Product Landing Page<br>https://knowone08.github.io/freeCodingCamp/16ProductLanding/index.html
+
   > <br>
 
 ## Practice Projects
@@ -19,3 +21,4 @@
 - > Balance Sheet<br>https://knowone08.github.io/freeCodingCamp/10BalanceSheet/index.html
 - > Picasso Painting<br>https://knowone08.github.io/freeCodingCamp/12piano/index.html
 - > City Skyline<br>https://knowone08.github.io/freeCodingCamp/14CitySkyline/index.html
+- > Magaxine<br>https://knowone08.github.io/freeCodingCamp/15Magazine/index.html
