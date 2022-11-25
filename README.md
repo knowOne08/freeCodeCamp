@@ -22,3 +22,4 @@
 - > Picasso Painting<br>https://knowone08.github.io/freeCodingCamp/12piano/index.html
 - > City Skyline<br>https://knowone08.github.io/freeCodingCamp/14CitySkyline/index.html
 - > Magazine<br>https://knowone08.github.io/freeCodingCamp/15Magazine/index.html
+- > Ferris Wheel<br>https://knowone08.github.io/freeCodingCamp/17FerrisWheel/index.html
