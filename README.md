@@ -21,4 +21,4 @@
 - > Balance Sheet<br>https://knowone08.github.io/freeCodingCamp/10BalanceSheet/index.html
 - > Picasso Painting<br>https://knowone08.github.io/freeCodingCamp/12piano/index.html
 - > City Skyline<br>https://knowone08.github.io/freeCodingCamp/14CitySkyline/index.html
-- > Magaxine<br>https://knowone08.github.io/freeCodingCamp/15Magazine/index.html
+- > Magazine<br>https://knowone08.github.io/freeCodingCamp/15Magazine/index.html
